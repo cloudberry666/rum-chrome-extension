@@ -30,6 +30,7 @@
   "action":
   {
     "default_icon": "rum_icon.png",
-    "default_title": "This is a datadog rum extension"
+    "default_title": "This is a Datadog rum extension",
+    "default_popup": "popup.html"
   }
 }
