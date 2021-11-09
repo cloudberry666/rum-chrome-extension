@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 963c8006fd94eab27d2df0f098697dc8c2868c2e
 // var match_reg='[a-zA-z]+://[a-zA-Z]+\.wikipedia\.org/[^\s]*'
 
 chrome.tabs.onUpdated.addListener(function(tabId, changeInfo, tab){
